@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_game">New Game</string>
+    <string name="game_title">Memory</string>
+    <string name="timer">o</string>
+    <string name="click">o</string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+
+
+</resources>
